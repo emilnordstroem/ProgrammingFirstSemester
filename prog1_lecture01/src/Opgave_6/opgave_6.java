@@ -1,0 +1,11 @@
+package Opgave_6;
+
+public class opgave_6 {
+    public static void main(String[] args){
+        System.out.println(" /\\_/\\");
+        System.out.println("( ' ' )");
+        System.out.println("(  -  )");
+        System.out.println(" | | | ");
+        System.out.println("(_ | _)");
+    }
+}
